@@ -1,0 +1,18 @@
+2023-04-02 21:45:23.165789 - Initialized conversion of CBT1020
+2023-04-02 21:45:23.330016 - Received CBT.V504.FILE1020.PDS from FILE1020.XMI 
+2023-04-02 21:45:23.332503 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE1020.PDS, moved to PDS/$$$#DATE
+2023-04-02 21:45:23.333957 - Found $DOC.txt (text/plain) in CBT.V504.FILE1020.PDS, moved to PDS/$DOC
+2023-04-02 21:45:23.334994 - Found @FIL1020.txt (text/plain) in CBT.V504.FILE1020.PDS, moved to PDS/@FIL1020
+2023-04-02 21:45:23.335964 - Found ASMJES2.txt (text/plain) in CBT.V504.FILE1020.PDS, moved to PDS/ASMJES2
+2023-04-02 21:45:23.337133 - Found GBLXREF.txt (text/plain) in CBT.V504.FILE1020.PDS, moved to PDS/GBLXREF
+2023-04-02 21:45:23.338066 - Found GENXREF.txt (text/plain) in CBT.V504.FILE1020.PDS, moved to PDS/GENXREF
+2023-04-02 21:45:23.339068 - Found JESASM.txt (text/plain) in CBT.V504.FILE1020.PDS, moved to PDS/JESASM
+2023-04-02 21:45:23.340123 - Found MEMBLIST.txt (text/plain) in CBT.V504.FILE1020.PDS, moved to PDS/MEMBLIST
+2023-04-02 21:45:23.341082 - Found MINIFMT.txt (text/plain) in CBT.V504.FILE1020.PDS, moved to PDS/MINIFMT
+2023-04-02 21:45:23.341095 - Found OBJASM.bin containing application/octet-stream, moved to PDS/OBJASM
+2023-04-02 21:45:23.341970 - Found OBJMLIST.bin containing application/octet-stream, moved to PDS/OBJMLIST
+2023-04-02 21:45:23.342858 - Found OBJXREF.bin containing application/octet-stream, moved to PDS/OBJXREF
+2023-04-02 21:45:23.345134 - Found QSORTS.txt (text/plain) in CBT.V504.FILE1020.PDS, moved to PDS/QSORTS
+2023-04-02 21:45:23.390314 - Found REPORT.xmi (application/xmit) in CBT.V504.FILE1020.PDS
+2023-04-02 21:45:23.394758   - Received to CBT1020/REPORT.TERSE
+2023-04-02 21:45:23.395850 - Found RUNXREF.jcl (text/plain) in CBT.V504.FILE1020.PDS, moved to PDS/RUNXREF
